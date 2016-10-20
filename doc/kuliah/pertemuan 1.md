@@ -1,7 +1,7 @@
 <h3 align="center">KAPITA SELEKTA</h3>
 
 <p align="center">
-  <img src="https://github.com/Kapita-Selekta/blob/master/img/gwindows_logo.PNG">
+  <img src="https://github.com/nadiaaaAR/Kapita-Selekta/blob/master/img/gwindows_logo.png">
 </p>
 
 
